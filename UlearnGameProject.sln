@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameProject", "GameProject\GameProject.csproj", "{D8A2EE62-46B8-439D-ACA0-B0C617BC55CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameProject.Tests", "GameProject.Tests\GameProject.Tests.csproj", "{D9D5A774-2735-4293-998C-EEDBBABD3BFC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{767DF0B8-CA07-4A24-9A2F-B34FE15AF3D5}"
+	ProjectSection(SolutionItems) = preProject
+		Concept.md = Concept.md
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8A2EE62-46B8-439D-ACA0-B0C617BC55CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8A2EE62-46B8-439D-ACA0-B0C617BC55CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8A2EE62-46B8-439D-ACA0-B0C617BC55CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8A2EE62-46B8-439D-ACA0-B0C617BC55CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9D5A774-2735-4293-998C-EEDBBABD3BFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9D5A774-2735-4293-998C-EEDBBABD3BFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9D5A774-2735-4293-998C-EEDBBABD3BFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9D5A774-2735-4293-998C-EEDBBABD3BFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
